@@ -1,0 +1,1 @@
+A simple Telegram bot made for interactions between managers and simple users.
